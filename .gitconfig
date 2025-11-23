@@ -1,0 +1,11 @@
+[user]
+	name = blockvished
+	email = jcmvishael@gmail.com
+
+[includeIf "gitdir:~/work/"]
+	path = ~/work/.gitconfig
+
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
